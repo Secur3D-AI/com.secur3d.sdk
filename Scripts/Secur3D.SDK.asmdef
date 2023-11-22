@@ -1,0 +1,19 @@
+{
+    "name": "Secur3D.SDK",
+    "rootNamespace": "Secur3D.SDK",
+    "references": [
+        "glTFast",
+        "glTFast.Export"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

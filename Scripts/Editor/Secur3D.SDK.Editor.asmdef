@@ -1,0 +1,23 @@
+{
+    "name": "Secur3D.SDK.Editor",
+    "rootNamespace": "Secur3D.SDK.Editor",
+    "references": [
+        "Secur3D.SDK",
+        "glTFast",
+        "glTFast.Export",
+        "Unity.EditorCoroutines.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

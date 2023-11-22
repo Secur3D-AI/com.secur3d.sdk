@@ -1,0 +1,23 @@
+{
+  "name": "com.secur3d.sdk",
+  "version": "0.1.1",
+  "displayName": "Secur3D SDK",
+  "description": "A SDK to interact with Secur3D content moderation and protection services.",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0",
+    "com.unity.nuget.newtonsoft-json": "3.0.2",
+    "com.unity.cloud.gltfast" : "6.0.1"
+  },
+  "samples": [
+    {
+      "displayName": "Runtime Organization Example",
+      "description": "Example scene and editor script to test each organization function through a GUI",
+      "path": "Samples~/ExampleOrganizationSetup"
+    }
+  ],
+  "author": {
+    "name": "Secur3D",
+    "email": "contact@secur3d.ai",
+    "url": "https://secur3d.ai/"
+  }
+}
