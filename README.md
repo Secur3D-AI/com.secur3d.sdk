@@ -1,15 +1,27 @@
 
 # Secur3D Unity Package
 
+
+## Installation
+
+This package is designed to be compliant with the Unity Package Manager and should be added through the 'Add packages from git URL' flow provided in the UPM interface.
+
+See https://docs.unity3d.com/Manual/upm-ui-giturl.html for more information.
+
+#
+Alternatively, the package can be downloaded via the release and installed locally as well. 
+
+See: https://github.com/Secur3D-AI/com.secur3d.sdk/releases
+
 ## Secur3D SDK
 
 The Secur3D SDK is a unity package to interact with Secur3D services through our API using either a Secur3D account or an organization.
 
-To make an account or organization please create one in the [Secur3D Portal](https://portal.secur3d.ai), then use that to access the services in the SDK.
+To make an account or organization please create one in the [Secur3D Portal](https://app.secur3d.ai), then use that to access the services in the SDK.
 
 To test the SDK or see how to use it please refer to the sample scripts and scenes.  
-The Editor example can be used via ```Window/Secur3D/SDK-Frontend``` with the script being in ```Samples/ExampleEditor/SDKEditorWindow```  
-The Runtime sample can be tested by opening and running the scene at ```Samples/ExampleRuntime/Scene/GUI```, the script for this example can be found at ```Samples/ExampleRuntime/SDKRuntimeWindow```
+The Editor example can be used via ```Window/Secur3D/Content Utility``` with the script being in ```Samples/ExampleEditor/SDKEditorWindow```  
+The Runtime sample can be tested by opening and running the scene at ```Samples/Secur3D SDK/[version]/Runtime Organization Example/Scene/GUI```, the script for this example can be found at ```Samples/ExampleRuntime/SDKRuntimeWindow```
 
 ### UploadFile
 
